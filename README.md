@@ -3,5 +3,7 @@
 <p> 🌨️ I’m currently learning reactjs</p>
 <p>🙂 I’m looking to collaborate on nothing but nothing</p>
 
+<img src="https://media.tenor.com/54mjjpuowCgAAAAM/ninjala-jane.gif" alt="hii">
+
 <h3>check instagram you'll find nothing there 🙂</h3>
 
