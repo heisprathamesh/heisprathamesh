@@ -1,9 +1,12 @@
-  <h1>👋 Hi, I’m Prathamesh karve</h1>
- <p>🤨 I’m interested in javascript</p>
-<p> 🌨️ I’m currently learning reactjs framework </p>
-<p>🙂 I’m looking to collaborate on nothing but nothing</p>
+  <h1>👋🏻 Hi, This is Prathamesh karve🪐</h1>
+ <p>🔎🖤 I’m interested in javascript and nodejs 👊🏻💲</p>
+<p> 🌨️ currently into reactjs 👨‍💻  </p>
+<p>🙂 Ask me anything about cyber security, ready to help 🛡🙇‍♂️</p>
 
 <img src="https://media.tenor.com/54mjjpuowCgAAAAM/ninjala-jane.gif" alt="hii" width="80%">
 
-<h3>check instagram you'll find nothing there 🙂</h3>
+<h3> Eager to solve problems🙂🚀</h3>
+
+<p>Can text on instagram!!💬</p>
+
 
