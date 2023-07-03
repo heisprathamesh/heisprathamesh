@@ -12,6 +12,7 @@
 
 <h3> Eager to solve problems🙂🚀</h3>
 
-<p> !i love to techy problems! 🚀</p>
+<p> i love to solve ur techy problems! 🚀</p>
+
 
 
