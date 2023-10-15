@@ -12,7 +12,7 @@
 
 <h3> Eager to solve problems🙂🚀</h3>
 
-<p> i love to solve ur techy problems! 🚀</p>
+<p> i can debug your code like an anteater! 🚀</p>
 </div>
 
 
