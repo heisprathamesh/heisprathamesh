@@ -33,7 +33,7 @@
 <br><br><br>
 
 <h3>I PLay Games, mostly saturday</h3>
-<img src="https://media.tenor.com/iTtJ7nAqpIcAAAAC/stray-coding.gif" alt="h" width="30%"> <br>
+ <br>
 <img src="https://media2.giphy.com/media/n1dFDLwXu4Qkwy7OJ0/200w.gif?cid=82a1493ber5c1r1163q58c23gujir3ks6hk2mgtzzdd66apo&ep=v1_gifs_related&rid=200w.gif&ct=g" width="30%">
 </div>
 
